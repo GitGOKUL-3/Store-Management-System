@@ -1,0 +1,16 @@
+# Compiled Java class files
+out/
+*.class
+
+# MySQL JDBC Driver JAR (too large for GitHub, users download it themselves)
+lib/
+
+# IDE/Editor files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# Windows thumbnail cache
+Thumbs.db
+desktop.ini
